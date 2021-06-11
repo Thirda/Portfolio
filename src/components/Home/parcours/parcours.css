@@ -1,0 +1,36 @@
+h2 {
+color: #173b6c;
+font-weight: bold;
+}
+
+.parcours-h2 {
+    margin-bottom: 25px;
+}
+
+.resume-item {
+    border-left: 3px solid #173b6c;
+    padding: 0 0 20px 20px;
+    display: inline-block;
+}
+
+.pro-title, .resume-title, .school-title {
+    color: rgb(57, 58, 138);
+}
+
+.conteneur-parcours{
+    display: flex;
+    flex-direction: row;
+}
+
+.conteneur-resume {
+    width: 50%;
+}
+
+.etudes-cours {
+    width: 50%;
+}
+
+.conteneur-parent{
+    overflow: hidden;
+    display: flex;
+}

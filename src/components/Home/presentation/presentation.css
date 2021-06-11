@@ -1,0 +1,26 @@
+
+.img-fond{
+  width : 150px;
+  height : 150px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+}
+.columns{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: max-content;
+  margin-bottom: 30px;
+}
+.ul-presentation{
+  margin-top: 16px;
+  margin-left: 40px;
+}
+.presentation-title{
+    margin-top: 30px;
+}
+.presentation-about {
+  margin-bottom: 15px;
+}
