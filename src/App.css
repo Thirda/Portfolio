@@ -1,5 +1,6 @@
 .pages {
 margin-left: 317px;
+width: 67%;
 }
 
 @media (max-width: 1024px) {
@@ -7,4 +8,24 @@ margin-left: 317px;
        margin: 0;
        padding: 0;
     }
+  }
+
+  @media (max-width: 768px) {
+.pages {
+   padding: 20px;
+}
+  }
+  
+  @media (min-width: 576px){
+     .pages{
+        padding: 20px;
+        min-width: 67%;
+     }
+
+  }
+
+  @media (max-width:370px){
+     .pages{
+        padding: 20px;
+     }
   }

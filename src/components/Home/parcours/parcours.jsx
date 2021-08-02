@@ -9,9 +9,9 @@ function Parcours() {
           
         <div class="section-title" data-aos="fade-left">
           <h2 className="parcours-h2">Parcours</h2>
-          <p>Passioné d'informatique j'ai décidé de me diriger dans ce domaine pour mes études après un bac en tant que technicien système en numérique j'ai souhaité continuer dans le développement web.</p>
+          <p className="parcours-text">Passioné d'informatique j'ai décidé de me diriger dans ce domaine pour mes études après un bac en tant que technicien système en numérique j'ai souhaité continuer dans le développement web.</p>
         </div>
-      <div class="container">
+      <div class="container-parcours">
 
 
         <div class="conteneur-parcours">
@@ -27,7 +27,7 @@ function Parcours() {
                 <li>antonestival@gmail.com</li>
               </ul>
             </div>
-          <div class="" data-aos="fade-up">
+          <div>
             <h3 class="pro-title">Experience profesionnel</h3>
             <div class="resume-item">
               <h4>Technicien Système en Numérique</h4>
@@ -42,7 +42,7 @@ function Parcours() {
             </div>
           </div>
           </div>
-          <div class="etudes-cours">
+          <div className="etudes-cours" data-aos="fade-up" data-aos-delay="100" style={{width: "50%" }}>
 
             <h3 class="school-title">Études</h3>
             <div class="resume-item">
