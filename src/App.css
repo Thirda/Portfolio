@@ -1,6 +1,10 @@
+.App {
+   background: linear-gradient(#ffffff, #b6b6b6);
+}
+
 .pages {
 margin-left: 317px;
-width: 67%;
+max-width: 84%;
 }
 
 @media (max-width: 1024px) {
@@ -29,3 +33,5 @@ width: 67%;
         padding: 20px;
      }
   }
+
+  

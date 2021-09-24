@@ -28,7 +28,7 @@ function Skills() {
             <p class="text">Node js</p>
             <p class="text">Express</p>
             <p class="text">Mysql</p>
-            <p class="text"></p>
+            <p class="text">Mongo db</p>
          
       </div>
    </div>
